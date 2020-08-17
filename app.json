@@ -1,15 +1,15 @@
 
 {
-  "name": "FilterAdderBot",
+  "name": "RulesAdderBot",
   "description": "Telegram's sassiest Filter Bot. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
     "group",
-    "filter",
+    "Rules",
     "3"
   ],
-  "repository": "https://github.com/nuhmanpk7/Filter-Adder",
+  "repository": "https://github.com/nuhmanpk7/Rules-Adder",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
