@@ -1,7 +1,8 @@
 # Rules-Adder
 
+Simple Telegram bot to add rules to Groups
 
-##Deploy Directly to Heroku here
+## Deploy Directly to Heroku here
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nuhmanpk7/Rules-Adder)
 
