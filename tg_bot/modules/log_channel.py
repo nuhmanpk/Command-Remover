@@ -143,18 +143,10 @@ if is_module_loaded(FILENAME):
 
 
     __help__ = """
-*അഡ്‌മിൻ മാത്രം:*
-- /logchannel: ലോഗ് ചാനൽ വിവരങ്ങൾ നേടുക.
-- /setlog: ലോഗ് ചാനൽ സജ്ജമാക്കുക.
-- /unsetlog: ലോഗ് ചാനൽ സജ്ജീകരിക്കരുത്.
-
-Setting the log channel is done by:
-- adding the bot to the desired channel (as an admin!)
-- sending /setlog in the channel
-- forwarding the /setlog to the group
+ 
 """
 
-    __mod_name__ = "Log Channels"
+    __mod_name__ = ""
 
     LOG_HANDLER = CommandHandler("logchannel", logging)
     SET_LOG_HANDLER = CommandHandler("setlog", setlog)
