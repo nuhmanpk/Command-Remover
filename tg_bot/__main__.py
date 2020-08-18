@@ -25,7 +25,7 @@ PM_START_TEXT = """
 python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്..
 Source code ലഭിക്കുവാൻ @bughunterbots അവിടെ വരുക,
 
-Im a Rules Adder Bot, My purpose is to help Admins Add rules to specific group,
+Hi , Im a Anticommand bot developed by @bughunter0
 Consider Adding me as a Group Admin 
 """
 
