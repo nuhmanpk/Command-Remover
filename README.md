@@ -1,10 +1,10 @@
 # Command Remover
 
-Simple Telegram bot to add rules to Groups
+Simple Telegram bot to Remove Commands from  Groups
 
 ## Deploy Directly to Heroku here
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nuhmanpk7/Rules-Adder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nuhmanpk7/Command-Remover)
 
 
 
