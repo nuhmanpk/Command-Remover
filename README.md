@@ -1,4 +1,4 @@
-# Rules-Adder
+# Command Remover
 
 Simple Telegram bot to add rules to Groups
 
