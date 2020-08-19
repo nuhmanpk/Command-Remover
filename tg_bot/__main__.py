@@ -34,11 +34,10 @@ HELP_STRINGS = """
 *Main* ലഭ്യമായ commandകൾ:
  - /start: Botന് ജീവനുണ്ടോ എന്നറിയാൻ...
  - /help: ഈ മെസ്സേജ് നിങ്ങളുടെ PM വരാൻ....
- - /rules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ നേടുക.
-Admin only:
- - /setrules <your rules here>:  ഈ ചാറ്റിനായി നിയമങ്ങൾ സജ്ജമാക്കുക.
- - /clearrules: ഈ ചാറ്റിനായുള്ള നിയമങ്ങൾ‌ മായ്‌ക്കുക.
 
+Admin only:
+ - /rmcmd on : Turn the Command disable on
+ 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
