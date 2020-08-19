@@ -143,10 +143,15 @@ if is_module_loaded(FILENAME):
 
 
     __help__ = """
- 
+◆ Server : Heroku
+◆ Database : SQL
+◆ Source code : @bughunterbots
+◆ Credits : All Along the journey
+◆ Owner : @bughunter0
+
 """
 
-    
+    __mod_name__="About"
 
     LOG_HANDLER = CommandHandler("logchannel", logging)
     SET_LOG_HANDLER = CommandHandler("setlog", setlog)
