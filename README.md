@@ -1,3 +1,7 @@
+# Shifted to pyrogram
+https://github.com/bughunter0/AntiService-AntiCommand
+
+
 # Command Remover
 
 Simple Telegram bot to Remove Commands from  Groups
